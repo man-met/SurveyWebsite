@@ -1,17 +1,13 @@
-6G5Z2107 - 2CWK50 - 2018/19
-<StudentName> Muhammad Qasim Khokhar Awan
-<StudentNumber> 14050520
 
-
-SETUP:
+# SETUP:
 ...
-1) Download the Zip folder and unzip all the files
-2) Copy the PHPASSESSMENT FOLDER into htdocs
+1) Download the repository
+2) Copy the files into htdocs
 3) Run the following url on the browser after running XAMPP
-URL = http://localhost/PHPAssessment/skeleton/create_data.php
+URL = http://localhost/skeleton/create_data.php
 This might take a few seconds to create the dummy data...
 4) Once the page creates the data go to the sign up page
-sign_up page = http://localhost/PHPAssessment/skeleton/sign_up.php
+sign_up page = http://localhost/skeleton/sign_up.php
 5) Now you are ready to use the website.
  You can create you own account and use it.
 
